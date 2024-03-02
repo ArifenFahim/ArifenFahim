@@ -1,8 +1,7 @@
-(https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/272765876_1677515189246327_3153222286389944225_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeH9pJE5FC7FZjemq4DRvlMOHB9FvUQCnRwcH0W9RAKdHF4ZaJNAuKJRFGCDyg2sSa-vZttd3hl-bcwWGFMRInbh&_nc_ohc=nTErCZAS718AX-wFyKT&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAF9i097rC5wdwSvfs4jGk0Pqpi8pt7IQRKys2U8sDINg&oe=65E8EFFF)
-
+![i'm a Web Developer.](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/272765876_1677515189246327_3153222286389944225_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeH9pJE5FC7FZjemq4DRvlMOHB9FvUQCnRwcH0W9RAKdHF4ZaJNAuKJRFGCDyg2sSa-vZttd3hl-bcwWGFMRInbh&_nc_ohc=nTErCZAS718AX-wFyKT&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAF9i097rC5wdwSvfs4jGk0Pqpi8pt7IQRKys2U8sDINg&oe=65E8EFFF)
 ### Hi there 👋, This is Radoanul Arifen
 #### i'm a Web Developer.
-![i'm a Web Developer.]
+
 
 As a skilled web developer with expertise in various programming languages, my GitHub bio reflects my passion for creating innovative web solutions. Proficient in languages like HTML, CSS, JavaScript, Python, Django, Java,and C, I bring a diverse skill set to every project. Let's collaborate and build the future of the web together!
 
@@ -23,10 +22,6 @@ Skills: HTML/ CSS/ JavaScript/ Python/ Django/ Java/ C
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifenFahim)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifenFahim&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ArifenFahim/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/ArifenFahim)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ArifenFahim)  
 
